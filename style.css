@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+marquee {
+    background-color:  rgb(33, 103, 172);
+}
+
+.topbar {
+    background-color: rgb(46, 111, 195);
+    padding: 10px ;
+    color: ivory;
+}
+
+.topbar i {
+    padding: 0 10px;
+}
+.container {
+    width: 1200px;
+    margin: 0 auto ;
+}
+
+.show-in-line {
+    display: inline-block;
+}
+
+.social {
+    float: left;
+}
+
+.moto {
+    float: left;
+    margin-left: 170px;
+    font-size: 15px;
+}
+
+.head-buttons {
+    float: right;
+}
+.clear {
+   clear: both;
+}
+.head-buttons a {
+   width: auto;
+   background-color: rgba(248, 248, 118, 0.705);
+   color: rgb(255, 255, 255);
+   padding: 5px 15px;
+   text-align: center;
+}
+.header {
+    background-color: #f7f8fa;
+}
+.logo {
+    float: left;
+}
+.menu {
+    float: right;
+    margin-top: 20px;
+}
+.logo img {
+    width: 240px;
+}
+.menu ul li {
+    display: inline-block;
+}
+
+.menu ul li a {
+    padding: 15px 25px;
+    color: #000;
+    font-size: 14px;
+}
+
+.menu ul li a:hover{
+   background-color: steelblue;
+   color: #fff;
+   font-size: bold;
+   border-radius: 23px;
+}
+h2.main-title{
+    text-align: center;
+    color: #316dc3;
+    margin: 20px 0;
+}
+.second-color{
+    color: yellowgreen;
+}
+
+
+
+
+
